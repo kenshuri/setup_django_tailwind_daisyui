@@ -1,0 +1,19 @@
+{
+  "name": "jstoolchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind-watch": "tailwindcss -i ../input.css -o ../blogApp/static/css/output.css --watch",
+    "tailwind-build": "tailwindcss -i ../input.css -o ../blogApp/static/css/output.css --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  },
+  "dependencies": {
+    "daisyui": "^2.19.0"
+  }
+}
