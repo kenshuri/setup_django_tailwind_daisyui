@@ -2,7 +2,7 @@
 
 As described, this code will set-up a Django Project with tailwindCSS and daisyUI. The auto-reload feature is also included.
 
-The code for this was vastly inspired from a stackoverflow answer on [How to use TailwindCSS with Django?](https://stackoverflow.com/questions/63392426/how-to-use-tailwindcss-with-django#63392427).
+The code for this was vastly inspired from a stackoverflow answer on [How to use TailwindCSS with Django?](https://stackoverflow.com/questions/63392426/how-to-use-tailwindcss-with-django#63392427). You can have a look ay my [blog post](https://kenshuri-blog.herokuapp.com/posts/001_setup_django_tailwind_daisyui.md) for some details.
 
 ## Set-up the project
 
